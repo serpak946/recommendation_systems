@@ -1,1 +1,3 @@
-print(list(range(0, 100)))
+import math
+
+math.fabs()
